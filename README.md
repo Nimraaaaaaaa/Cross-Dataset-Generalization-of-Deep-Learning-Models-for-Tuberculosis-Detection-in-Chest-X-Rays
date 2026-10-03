@@ -4,8 +4,6 @@ A DenseNet-121 classifier reaches AUC 0.84–0.996 on the dataset it was trained
 
 **Contact:** nimraabdulhaqq@gmail.com
 
-> **Research / educational project only. Not a medical device and not for clinical use.**
-
 ---
 
 ## Table of contents
